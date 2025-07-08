@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="left"> 🕵🏻‍♂️ About Me:</h3>
-<img align="right" src="https://media.tenor.com/ZgIRCUMksogAAAAM/sing-crayon-shin-chan.gif" width="250" alt="Coding gif"/>
+<img align="right" src="https://nicoledoeswellness.com/wp-content/uploads/2019/03/happy-smile-guy.jpg" width="250" alt="Coding gif"/>
 <div align="left">
   <ul>
     <li>🔍 Figuring out my everything</li>
