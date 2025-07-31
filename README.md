@@ -14,6 +14,7 @@
     <li>⚡ Bachelor's in Electronics</li>
     <li>🧬 Bioinformatics in Master's</li>
     <li>📊 Data Science & 💻 Programming in Diploma</li>
+    <li>✨ Like to keep it simple but never miss the details</li>
   </ul>
 </div>
 
