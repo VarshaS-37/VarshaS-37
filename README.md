@@ -12,7 +12,7 @@
     <li>🔍 Figuring out my everything</li>
     <li>🤹 Juggling my mind with confusion</li>
     <li>⚡ Bachelor's in Electronics</li>
-    <li>🧬 Bioinformatics in Master's</li>
+    <li>💊 Bioinformatics in Master's</li>
     <li>📊 Data Science & 💻 Programming in Diploma</li>
     <li>✨ Like to keep it simple but never miss the details</li>
   </ul>
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<h3 align="left">📈 Data Science Tools:</h3>
+<h3 align="left">📉 Data Science Tools:</h3>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
