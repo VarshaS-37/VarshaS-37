@@ -8,7 +8,6 @@
 <div align="left">
   <ul>
     <li>🔍 Figuring out my everything</li>
-    <li>🤹 Juggling my mind with confusion</li>
     <li>⚡ Bachelor's in Electronics</li>
     <li>💊 Bioinformatics in Master's</li>
     <li>📊 Data Science & 💻 Programming in Diploma</li>
