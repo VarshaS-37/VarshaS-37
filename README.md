@@ -1,6 +1,4 @@
-<h1 align="center">
-  🚧 Profile under Construction 🚧
-</h1>
+
 <h1 align="center">  
   Hello Varsha here!🧐
 </h1>
