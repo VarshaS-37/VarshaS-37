@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="left">📉 Data Science Tools:</h3>
+<h3 align="left">📉 Data Science:</h3>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
