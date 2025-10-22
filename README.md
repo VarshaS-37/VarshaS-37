@@ -47,7 +47,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
+  </a><span style="font-size: 16px; vertical-align: middle;"> (learning)</span>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a><a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
