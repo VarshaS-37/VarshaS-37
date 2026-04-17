@@ -15,6 +15,16 @@
   </ul>
 </div>
 
+
+
+<h3 align="left">🧬 Bioinformatics:</h3>
+<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
+  </a>
+ 
+</p>
+
 <h3 align="left">👩🏻‍💻 Languages:</h3>
 <p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -26,14 +36,6 @@
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   </a>
-</p>
-
-<h3 align="left">🧬 Bioinformatics:</h3>
-<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
-  </a>
- 
 </p>
 
 <h3 align="left">📉 Data Science:</h3>
