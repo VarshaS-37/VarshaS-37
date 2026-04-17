@@ -8,9 +8,9 @@
 <div align="left">
   <ul>
     <li>🔍 Figuring out my everything</li>
-    <li>⚡ Bachelor's in Electronics</li>
     <li>💊 Bioinformatics in Master's</li>
     <li>📊 Data Science & 💻 Programming in Diploma</li>
+     <li>⚡ Bachelor's in Electronics</li>
     <li>✨ Like to keep it simple but never miss the details</li>
   </ul>
 </div>
@@ -25,6 +25,31 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  </a>
+</p>
+
+<h3 align="left">🧬 Bioinformatics:</h3>
+<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
+  </a>
+ 
+</p>
+
+<h3 align="left">📉 Data Science:</h3>
+<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  </a>
+  <span>(learning)</span>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
   </a>
 </p>
 
@@ -45,31 +70,6 @@
   <a href="https://www.ni.com/en-us/support/model.multisim.html" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png" width="40"/>
   </a>
-</p>
-
-<h3 align="left">📉 Data Science:</h3>
-<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  </a>
-  <span>(learning)</span>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  </a>
-</p>
-
-<h3 align="left">🧬 Bioinformatics:</h3>
-<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
-  </a>
- 
 </p>
 
 <h3 align="left">🛠️ Tools & Environments:</h3>
