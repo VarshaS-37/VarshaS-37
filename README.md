@@ -69,7 +69,7 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
   </a>
-  <span>(yet to learn)</span>
+ 
 </p>
 
 <h3 align="left">🛠️ Tools & Environments:</h3>
