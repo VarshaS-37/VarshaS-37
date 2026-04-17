@@ -73,7 +73,8 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a><span style="font-size: 16px; vertical-align: middle;"> (learning)</span>
-  
+</p>
+
 <h3 align="left">📬 Connect with Me:</h3>
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
