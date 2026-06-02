@@ -22,7 +22,22 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/>
   </a>
- 
+  <a href="https://www.nextflow.io/" target="_blank">
+    <img src="https://www.nextflow.io/img/nextflow-logo.png" width="40"/>
+  </a>
+  <a href="https://autodock.scripps.edu/" target="_blank">
+    <img src="https://autodock.scripps.edu/wp-content/uploads/sites/56/2016/10/autodock_logo.png" width="40"/>
+  </a>
+  <a href="https://pymol.org/" target="_blank">
+    <img src="https://pymol.org/assets/img/logo.png" width="40"/>
+  </a>
+  <a href="https://string-db.org/" target="_blank">
+    <img src="https://string-db.org/images/string-logo.svg" width="40"/>
+  </a>
+  <a href="https://cytoscape.org/" target="_blank">
+    <img src="https://cytoscape.org/images/logo.svg" width="40"/>
+  </a>
+
 </p>
 
 <h3 align="left">👩🏻‍💻 Languages:</h3>
@@ -43,7 +58,6 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
   </a>
-  <span>(learning)</span>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   </a>
@@ -79,7 +93,6 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   </a>
-  <span>(learning)</span>
 </p>
 
 <h3 align="left">📬 Connect with Me:</h3>
