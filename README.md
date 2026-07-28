@@ -105,7 +105,7 @@
 <table>
 <tr>
 <td>
-<a href="https://www.linkedin.com/in/varsha-s-eln-bio-data/">
+<a href="https://www.linkedin.com/in/varsha-bio-prog-data/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 </td>
