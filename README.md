@@ -62,7 +62,7 @@
     <li>🧭 Alignment: STAR, HISAT2</li>
     <li>📊 Quantification: FeatureCounts, StringTie</li>
     <li>🔁 circRNA Analysis: CIRI2, CIRIquant </li>
-    <li>🧫 Functional Analysis: clusterProfiler, KEGG, GO
+    <li>🧫 Functional Analysis: clusterProfiler, KEGG, GO </li>
   </ul>
 </div>
 
