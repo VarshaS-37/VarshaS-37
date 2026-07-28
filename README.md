@@ -82,7 +82,7 @@
 <table>
 <tr>
 <td><a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/></a></td>
-<td><a href="https://www.mathworks.com/products/simulink.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/></a></td>
+<td><a href="https://www.mathworks.com/products/simulink.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" width="40"/></a></td>
 <td><a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/></a></td>
 <td><a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/></a></td>
 <td><a href="https://www.ni.com/en-us/support/model.multisim.html"><img src="https://cdn-1.webcatalog.io/catalog/multisim-live/multisim-live-icon-filled-256.png" width="40"/></a></td>
