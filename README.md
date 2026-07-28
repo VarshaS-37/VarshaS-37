@@ -22,7 +22,7 @@
 <tr>
 <td><a href="https://www.nextflow.io/"><img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" width="40"/></a></td>
 <td><a href="https://autodock.scripps.edu/"><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/AutoDock_logo.jpg" width="40"/></a></td>
-<td><a href="https://pymol.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/512px-PyMOL_logo.svg.png" width="40"/></a></td>
+<td><a href="https://pymol.org/"><img src="https://commons.wikimedia.org/wiki/File:PyMOL_logo.svg" width="40"/></a></td>
 <td><a href="https://cytoscape.org/"><img src="https://cytoscape.org/images/logo/cytoscape_logo_512.png" width="40"/></a></td>
 </tr>
 </table>
