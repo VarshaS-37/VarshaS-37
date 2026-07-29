@@ -1,10 +1,6 @@
 <h1 align="center">
   Hello Varsha here!🧐
 </h1>
-<br>
-<p align="center">
-  Exploring biology through code .....
-</p>
 
 <p align="center">
   🌐 Portfolio: 
