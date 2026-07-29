@@ -1,9 +1,9 @@
 <h1 align="center">
-  🧬 Varsha's Computational Biology Portfolio 💻
+  Hello Varsha here!🧐
 </h1>
-
+<br>
 <p align="center">
-  Exploring biology through code — from circuits to cells and beyond.
+  Exploring biology through code .....
 </p>
 
 <p align="center">
@@ -12,11 +12,6 @@
     varshas-37.github.io
   </a>
 </p>
-
-<br>
-<h1 align="center">  
-  Hello Varsha here!🧐
-</h1>
 
 <h3 align="left"> 🕵🏻‍♂️ About Me:</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXa2FlH1MpwIRCWFcVSt24dk26OkYfRm1Nw&s" width="250"/>
