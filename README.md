@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🌸 Check out my portfolio: 
+  🌐 Check out my portfolio: 
   <a href="https://varshas-37.github.io/">
     varshas-37.github.io
   </a>
