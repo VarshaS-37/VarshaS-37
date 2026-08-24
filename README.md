@@ -15,9 +15,9 @@
 <div align="left">
   <ul>
     <li>🔍 Figuring out my everything</li>
-    <li>💊 Bioinformatics in Master's</li>
+    <li>💊 Bioinformatics in Masters</li>
     <li>📈 Data Science & 💻 Programming in Diploma</li>
-    <li>⚡ Bachelor's in Electronics</li>
+    <li>⚡ Bachelors in Electronics</li>
     <li>✨ Like to keep it simple but never miss the details</li>
   </ul>
 </div>
