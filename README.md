@@ -15,12 +15,29 @@
 <div align="left">
   <ul>
     <li>🔍 Figuring out my everything</li>
-    <li>🦠 Bioinformatics in Masters</li>
-    <li>📈 Data Science & 💻 Programming in Diploma</li>
-    <li>⚡ Bachelors in Electronics</li>
     <li>✨ Like to keep it simple but never miss the details</li>
   </ul>
 </div>
+
+<h3 align="left"> 👩‍🎓 Education:</h3>
+
+<div align="left">
+  <ul>
+    <li>💊 Bioinformatics in Masters</li>
+    <li>📈 Data Science & 💻 Programming in Diploma</li>
+    <li>⚡ Bachelors in Electronics and Telecommunication</li>
+  </ul>
+</div>
+
+<h3 align="left"> 👩‍🔬 My Interests:</h3>
+
+<div align="left">
+  <ul>
+    <li>🦠 How the Immune system works?</li>
+    <li>👩🏻‍💻 Building Computational Biology Tools</li>
+  </ul>
+</div>
+
 
 
 <h3 align="left">🧪 Bioinformatics Tools:</h3>
