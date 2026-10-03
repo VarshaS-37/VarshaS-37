@@ -16,6 +16,7 @@
   <ul>
     <li>🔍 Figuring out my everything</li>
     <li>✨ Like to keep it simple but never miss the details</li>
+    <li>👩‍🔧 Learning by building</li>
   </ul>
 </div>
 
@@ -33,8 +34,9 @@
 
 <div align="left">
   <ul>
-    <li>🦠 How the Immune system works?</li>
-    <li>👩🏻‍💻 Building Computational Biology Tools</li>
+   <li>🦠 Exploring the mysteries of the immune system</li>
+  <li>🧠 Understanding the algorithms behind the tools</li>
+  <li>👩🏻‍💻 Building tools for Computational Biology</li>
   </ul>
 </div>
 
